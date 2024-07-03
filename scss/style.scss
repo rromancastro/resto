@@ -1,0 +1,16 @@
+@import './vars';
+@import 'base/index';
+@import 'components/nav';
+
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../multimedia/backgrounds/background1.jpg);
+    background-size: cover;
+}
